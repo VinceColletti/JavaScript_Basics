@@ -46,6 +46,12 @@ p{
     padding-top: 25px;
     border-radius: 10px;
 }
+.list-content{
+    margin-bottom: 10px;
+}
+.darker-text{
+    color: #7d83ec;
+}
 .footer{
     background-color: #5d6773;
     color: white;
